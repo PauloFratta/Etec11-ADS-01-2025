@@ -1,0 +1,23 @@
+-- AJAZZ-AK820 (TECLADO 1) --
+https://pt.aliexpress.com/item/1005007168889184.html?spm=a2g0o.productlist.main.6.69e9664bytmHZg&algo_pvid=fa1daca5-e5d6-4339-974e-191e07bd9095&algo_exp_id=fa1daca5-e5d6-4339-974e-191e07bd9095-29&pdp_ext_f=%7B%22order%22%3A%2212970%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007168889184%22%2C%22orig_item_id%22%3A%221005006665161244%22%7D&pdp_npi=4%40dis%21BRL%21422.50%21190.63%21%21%21510.64%21230.40%21%402101c80217476840630808031ef0fd%2112000039681349772%21sea%21BR%216372696968%21ABX&curPageLogUid=1adiMUMwoSQ3&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+-- AKKO MONS (TECLADO 2) --
+https://pt.aliexpress.com/item/1005008385198238.html?spm=a2g0o.productlist.main.2.7d151e7dNd5Crb&algo_pvid=474f45d7-9502-4806-993d-4058b9f4bc99&algo_exp_id=474f45d7-9502-4806-993d-4058b9f4bc99-2&pdp_ext_f=%7B%22order%22%3A%2219203%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005008385198238%22%2C%22orig_item_id%22%3A%221005008214899939%22%7D&pdp_npi=4%40dis%21BRL%21375.83%21173.00%21%21%2162.98%2128.99%21%402101d9ef17476839862904909eddef%2112000044803671443%21sea%21BR%216372696968%21ABX&curPageLogUid=ljf9iceAGeOt&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+-- INPHIC F1 (MOUSE 1) --
+https://pt.aliexpress.com/item/1005006760916863.html?spm=a2g0o.productlist.main.33.1846xR1KxR1KCw&algo_pvid=20ffb046-0057-46a7-aca7-03c66f554b11&algo_exp_id=20ffb046-0057-46a7-aca7-03c66f554b11-56&pdp_ext_f=%7B%22order%22%3A%221825%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21BRL%21113.65%2148.82%21%21%21137.36%2159.01%21%402101c5bf17476837917646666e2028%2112000038214949840%21sea%21BR%216372696968%21ABX&curPageLogUid=ncxYyHVhPVyb&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+-- RAZER DEATHADDER (MOUSE 2) --
+https://pt.aliexpress.com/item/1005007798475178.html?spm=a2g0o.productlist.main.6.1846xR1KxR1KCw&algo_pvid=20ffb046-0057-46a7-aca7-03c66f554b11&algo_exp_id=20ffb046-0057-46a7-aca7-03c66f554b11-7&pdp_ext_f=%7B%22order%22%3A%2212098%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007798475178%22%2C%22orig_item_id%22%3A%221005005164262453%22%7D&pdp_npi=4%40dis%21BRL%21257.57%21111.69%21%21%21311.30%21134.99%21%402101c5bf17476837917646666e2028%2112000042238032913%21sea%21BR%216372696968%21ABX&curPageLogUid=EGrqTXH3lzb6&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+--Razer BlackShark V2--
+https://pt.aliexpress.com/item/1005007928534128.html?spm=a2g0o.productlist.main.4.748cbl4Jbl4JQ5&algo_pvid=a10a0e98-487d-4fa2-b020-1fb3f8838d3c&algo_exp_id=a10a0e98-487d-4fa2-b020-1fb3f8838d3c-3&pdp_ext_f=%7B%22order%22%3A%22313%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21BRL%21406.46%21183.04%21%21%21491.25%21221.22%21%40210318ec17476859949242296efdff%2112000043132434990%21sea%21BR%216372696968%21ABX&curPageLogUid=MXCwxPiufbeF&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+--Headset Gamer Logitech G635 --
+https://pt.aliexpress.com/item/1005007515432541.html?spm=a2g0o.productlist.main.20.6230597eMAnoUy&algo_pvid=1a3e414c-967f-420c-af42-5556252b32af&algo_exp_id=1a3e414c-967f-420c-af42-5556252b32af-19&pdp_ext_f=%7B%22order%22%3A%2211%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21BRL%211288.00%211219.99%21%21%211288.00%211219.99%21%40210337c117476857106465296ee2d7%2112000041094127610%21sea%21BR%216372696968%21ABX&curPageLogUid=4YXN2MPDp2Ki&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+--Logitech mk270 conjunto de teclado e mouse sem fio--
+https://pt.aliexpress.com/item/1005008480236214.html?spm=a2g0o.productlist.main.12.a79ebccdxSLuHw&algo_pvid=c230e912-7746-457b-accd-96ef9e137cfd&algo_exp_id=c230e912-7746-457b-accd-96ef9e137cfd-11&pdp_ext_f=%7B%22order%22%3A%228%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21BRL%21353.18%21176.59%21%21%21426.86%21213.43%21%402103205117476858977766700e0202%2112000045331181983%21sea%21BR%216372696968%21ABX&curPageLogUid=b6zoDpaqWE6r&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+--Logitech-PebBLE 2 COMBO Conjunto de Mouse e Teclado Sem Fio--
+https://pt.aliexpress.com/item/1005006825508792.html?spm=a2g0o.productlist.main.7.a79ebccdxSLuHw&algo_pvid=c230e912-7746-457b-accd-96ef9e137cfd&algo_exp_id=c230e912-7746-457b-accd-96ef9e137cfd-6&pdp_ext_f=%7B%22order%22%3A%2224%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21BRL%21320.23%21315.23%21%21%21387.03%21380.99%21%402103205117476858977766700e0202%2112000038426832369%21sea%21BR%216372696968%21ABX&curPageLogUid=ltzHQX0HOY4Q&utparam-url=scene%3Asearch%7Cquery_from%3A
