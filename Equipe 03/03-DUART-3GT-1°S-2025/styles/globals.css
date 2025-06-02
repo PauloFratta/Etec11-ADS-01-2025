@@ -219,23 +219,23 @@ footer {
     margin-right: auto;
 }
 
-.pjv-footer {
+.duart-footer {
     background-color: #1a1a1a;
     color: #f1f1f1;
     padding: 40px 20px 20px 20px;
     font-family: Arial, sans-serif;
 }
 
-.pjv-footer a {
+.duart-footer a {
     color: #ccc;
     text-decoration: none;
 }
 
-.pjv-footer a:hover {
+.duart-footer a:hover {
     color: #fff;
 }
 
-.pjv-footer-top {
+.duart-footer-top {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -296,7 +296,7 @@ footer {
     transform: scale(1.1);
 }
 
-.pjv-footer-bottom {
+.duart-footer-bottom {
     text-align: center;
     font-size: 14px;
     border-top: 1px solid #444;
@@ -314,7 +314,7 @@ footer {
 }
 
 .footer-logo-rights img {
-    height: 45px; 
+    height: 90px; 
     width: auto;
 }
 
