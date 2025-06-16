@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .body {
     font-family: Arial;
 }
@@ -371,11 +375,12 @@ footer {
     margin: 8px auto 0 auto;
 }
 
-.product {
+.product a{
     color: #1e283b;
     margin-bottom: 1rem;
     display: flex;
     flex-direction: column;
+    text-decoration: none;
 }
 
 .product-name {
@@ -463,4 +468,15 @@ footer {
 /* Defina uma fonte diferente para títulos e parágrafos */
 h1, h2, h3, p {
     font-family: 'Segoe UI', 'Arial Rounded MT Bold', Arial, sans-serif;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.tresponto p{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
