@@ -5,3 +5,10 @@ clique no botão verde escrito code
 aperte no https e clique no botão de copiar
 abra o cmd e digite "git clone https://github.com/LukasPio/Closete.git"
 agora você tem um backup na sua máquina local
+
+equipe 4 - Closete
+
+Thiago Akiama
+Lucas Pio
+Sofia Sperandio
+João Victor
