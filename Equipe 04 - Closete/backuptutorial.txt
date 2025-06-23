@@ -1,0 +1,7 @@
+entre no github
+pesquise o usuario LukasPio
+entre no repositório closete
+clique no botão verde escrito code
+aperte no https e clique no botão de copiar
+abra o cmd e digite "git clone https://github.com/LukasPio/Closete.git"
+agora você tem um backup na sua máquina local
