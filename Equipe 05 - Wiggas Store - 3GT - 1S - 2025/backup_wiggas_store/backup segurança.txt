@@ -1,0 +1,48 @@
+Nome Integrantes:
+--------------------------------------
+|Miguel Mori Negri de Oliveira	     |   
+|Nicolas Novi Ramos		     |
+|Pedro Gabriel Paraiso da Silva Gomes|
+|Wallace Mendes Loiola		     |
+-------------------------------------
+
+
+✅ 1. Clonar o repositório para seu computador (backup local)
+Se você ainda não tem o repositório clonado no seu computador, use:
+--------------------------------------------------------------
+|git clone https://github.com/usuario/nome-do-repositorio.git|
+--------------------------------------------------------------
+Substitua usuario/nome-do-repositorio pelo caminho real do seu projeto no GitHub.
+
+✅ 2. Fazer backup do repositório clonado
+Agora que você tem os arquivos no seu computador, pode:
+Copiar a pasta para um HD externo ou pen drive.
+Compactar a pasta em .zip ou .rar e enviar para um serviço de nuvem como Google Drive, OneDrive ou Dropbox.
+Fazer upload para outro repositório remoto privado, se quiser redundância.
+
+✅ 3. Exportar o repositório como .zip (sem Git)
+Se quiser só os arquivos (sem histórico de commits), faça:
+Vá até o repositório no site do GitHub.
+Clique no botão verde Code.
+Clique em Download ZIP.
+Isso baixa apenas os arquivos da última versão (main ou master), sem histórico.
+
+✅ 4. Usar GitHub CLI 
+Se você usa a GitHub CLI, pode fazer isso:
+-------------------------------------------
+|gh repo clone usuario/nome-do-repositorio|
+-------------------------------------------
+
+✅ 5. Automatizar backups (avançado)
+Se quiser automatizar os backups com scripts, pode usar um cron ou agendador para rodar:
+----------------------------------------------------------------------
+|cd ~/backups							      |
+|git clone --mirror https://github.com/usuario/nome-do-repositorio.git|
+----------------------------------------------------------------------
+Ou, se já tiver o backup:
+----------------------------
+|cd nome-do-repositorio.git|
+|git remote update	   |
+----------------------------
+Isso atualiza seu backup com as últimas alterações.
+
