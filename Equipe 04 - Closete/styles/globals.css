@@ -5,6 +5,15 @@
     font-family: Arial;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
 .header-inner-content{
     max-width: 1300px;
     margin-left: auto;
@@ -36,11 +45,11 @@
 .navbar .header-inner-content nav ul li {
     color: #fff;
     cursor: pointer;
-    transition: all 0.2s;
+    transition: 0.2s;
 }
 
 .navbar .header-inner-content nav ul li:hover {
-    transform: translateY(-5px);
+    transform: scale(1.1);
     font-weight: bold;
 }
 .logo{
@@ -77,7 +86,7 @@
     cursor: pointer;
 }
 
-.nav-ul-li: hover{
+.nav-ul-li:hover{
     transform: translateY(-5px);
     Transition: all 0.2s;
     font-weight: bold; 
